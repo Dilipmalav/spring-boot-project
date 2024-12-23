@@ -1,0 +1,12 @@
+package com.rays;
+
+import org.springframework.boot.SpringApplication;
+
+@SpringBootApplication
+public class SpringBootTestApplication {
+
+	public static void main(String[] args) {
+		
+		SpringApplication.run( SpringBootTestApplication.class, args);
+	}
+}

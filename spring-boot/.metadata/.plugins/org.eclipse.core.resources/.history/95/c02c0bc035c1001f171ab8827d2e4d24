@@ -1,0 +1,15 @@
+package com.rays.ctl;
+
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping(value = "Demo")
+public class DemoCtl {
+
+	@GetMapping("display")
+	public String display() {
+		return "Spring Boot Application";
+	}
+}

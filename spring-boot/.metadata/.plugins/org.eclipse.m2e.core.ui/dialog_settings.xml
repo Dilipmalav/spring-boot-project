@@ -31,6 +31,7 @@
 			<item value="com.rays"/>
 		</list>
 		<list key="artifactId">
+			<item value="spring-boot-simple"/>
 			<item value="spring-boot-test"/>
 		</list>
 		<list key="projectNameTemplate">

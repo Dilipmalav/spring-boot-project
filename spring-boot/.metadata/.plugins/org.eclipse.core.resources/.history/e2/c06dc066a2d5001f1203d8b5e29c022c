@@ -1,0 +1,18 @@
+package com.rays.common;
+
+import javax.persistence.Column;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+
+import org.hibernate.annotations.GenericGenerator;
+
+public class BaseDTO {
+
+	@Id
+	@GeneratedValue(generator = "ncsPk")
+	@GenericGenerator(name = "ncsPk", strategy = "native")
+	@Column(name = "ID", unique = true, nullable = false)
+	protected Long id;
+	
+	
+}

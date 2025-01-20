@@ -1,4 +1,6 @@
 INDEX VERSION 1.131
+C:\Rays Software\WorkSpace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1366216687.index
+\spring-boot-front-ctl\src\main\java
 C:\Rays Software\WorkSpace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2018337845.index
 \spring-boot-test\src\main\resources
 C:\Rays Software\WorkSpace\spring-boot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1750929868.index

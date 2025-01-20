@@ -1,9 +1,9 @@
 package com.rays.common;
 
-public class DropDownList {
+public interface DropDownList {
 
-//	public String getKey();
-//
-//	public String getValue();
+	public String getKey();
+
+	public String getValue();
 
 }
